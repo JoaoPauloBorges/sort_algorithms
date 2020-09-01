@@ -1,0 +1,25 @@
+﻿  Generate moc_predefs.h
+  Uic'ing mainwindow.ui...
+  Moc'ing mainwindow.h...
+  Bubble.cpp
+  Inserction.cpp
+  Merge_Sort.cpp
+  Quick_Sort.cpp
+D:\Computer Science\Data Structures\Trabalho1\Merge_Sort.cpp(1,1): warning C4828: The file contains a character starting at offset 0xf1 that is illegal in the current source character set (codepage 65001).
+D:\Computer Science\Data Structures\Trabalho1\Merge_Sort.cpp(1,1): warning C4828: The file contains a character starting at offset 0x166 that is illegal in the current source character set (codepage 65001).
+D:\Computer Science\Data Structures\Trabalho1\Merge_Sort.cpp(1,1): warning C4828: The file contains a character starting at offset 0x1ca that is illegal in the current source character set (codepage 65001).
+  Selection.cpp
+  heap_sort.cpp
+  main.cpp
+D:\Computer Science\Data Structures\Trabalho1\heap_sort.cpp(1,1): warning C4828: The file contains a character starting at offset 0x217 that is illegal in the current source character set (codepage 65001).
+D:\Computer Science\Data Structures\Trabalho1\heap_sort.cpp(1,1): warning C4828: The file contains a character starting at offset 0x39b that is illegal in the current source character set (codepage 65001).
+D:\Computer Science\Data Structures\Trabalho1\heap_sort.cpp(1,1): warning C4828: The file contains a character starting at offset 0x3fb that is illegal in the current source character set (codepage 65001).
+D:\Computer Science\Data Structures\Trabalho1\heap_sort.cpp(1,1): warning C4828: The file contains a character starting at offset 0x47c that is illegal in the current source character set (codepage 65001).
+D:\Computer Science\Data Structures\Trabalho1\heap_sort.cpp(1,1): warning C4828: The file contains a character starting at offset 0x4d8 that is illegal in the current source character set (codepage 65001).
+D:\Computer Science\Data Structures\Trabalho1\heap_sort.cpp(1,1): warning C4828: The file contains a character starting at offset 0x4f0 that is illegal in the current source character set (codepage 65001).
+D:\Computer Science\Data Structures\Trabalho1\heap_sort.cpp(1,1): warning C4828: The file contains a character starting at offset 0x5d5 that is illegal in the current source character set (codepage 65001).
+D:\Computer Science\Data Structures\Trabalho1\heap_sort.cpp(1,1): warning C4828: The file contains a character starting at offset 0x666 that is illegal in the current source character set (codepage 65001).
+  mainwindow.cpp
+  moc_mainwindow.cpp
+qtmaind.lib(qtmain_win.cpp.obj) : warning LNK4099: PDB 'WinMain.pdb' was not found with 'qtmaind.lib(qtmain_win.cpp.obj)' or at 'D:\Computer Science\Data Structures\Trabalho1\debug\WinMain.pdb'; linking object as if no debug info
+  Trabalho1.vcxproj -> D:\Computer Science\Data Structures\Trabalho1\debug\Trabalho1.exe
